@@ -1,5 +1,7 @@
 # repo-downloader
 
+Downloads a zip of all your repos.
+
 Open your [repos](https://github.com/matthewgarrison?tab=repositories) page, and run this script in the console window.
 
 ```
