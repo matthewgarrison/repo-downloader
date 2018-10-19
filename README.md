@@ -1,8 +1,8 @@
 # repo-downloader
 
-Downloads a zip of all your repos.
+Downloads a zip of each of your repos.
 
-Open your [repos](https://github.com/matthewgarrison?tab=repositories) page, and run this script in the console window.
+Usage: Open your [repos](https://github.com/matthewgarrison?tab=repositories) page, and run this script in the console window.
 
 ```
 var ul = document.getElementById('user-repositories-list');
